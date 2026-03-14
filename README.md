@@ -1,6 +1,7 @@
 # MClearning6_showcase_multifactor_strategy
 # readme由AI生成，代码已经过AI模糊化处理且剔除高频因子计算逻辑
-Quantitative Factor Mining Infrastructure (Showcase)
+# Quantitative Factor Mining Infrastructure (Showcase)
+
 📌 项目概述 (Overview)
 本项目展示了一套工业级的日频（EOD）多因子量化研究与挖掘基建。该框架实现了从原始数据适配、向量化因子计算、统计风险中性化到因子增量评估的全流程自动化。
 
