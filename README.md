@@ -125,3 +125,19 @@ Date: 2026-02-09 | Equity: 4266284 | Position: {'600668.SH': 76600, '000779.SZ':
 
 💡 回测说明 (Backtest Notes)
 示例输出中的高额累计收益部分归因于特定的回测区间与资产池，且未由于个人资金未考虑冲击成本（Impact Cost）在大规模资金下的衰减效应，仅使用千1滑点模拟。实际生产环境中的滑点表现可能因流动性挤压而劣于回测预估。
+
+📢 Intellectual Property & Usage Notice
+
+Project Ownership:
+This repository (MClearning6_showcase_multifactor_strategy) is the sole intellectual property of the author (MClearning6). All original logic, architectural designs, and processed code are protected.
+
+Portfolio Synchronization:
+This project is synchronized with the author's Personal Professional Portfolio and is time-stamped for proof of existence. Any unauthorized reproduction, "white-labeling" (stripping attribution for internal corporate use), or commercial exploitation is strictly prohibited.
+
+Usage Terms:
+
+Personal Review only: This code is provided solely for the purpose of technical evaluation by recruiters and peers.
+
+No Commercial Use: No part of this repository may be used in production environments or as part of a proprietary trading system without explicit written consent.
+
+Attribution: Any derivative works must cite the original author and link back to this repository.
