@@ -1,4 +1,3 @@
-# MClearning6_showcase_multifactor_strategy
 # readme由AI生成，代码已经过AI模糊化处理且剔除高频因子计算逻辑
 # Quantitative Factor Mining Infrastructure (Showcase)
 
