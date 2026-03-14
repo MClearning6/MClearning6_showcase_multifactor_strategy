@@ -97,6 +97,7 @@ backtest_positions.csv: 每日持仓快照，记录组合的市值分布。
 equity_curve.png: 高清收益曲线对比图，直观展示策略相对于基准的超额收益（Alpha）及风险回撤特征。
 
 回测示例输出：
+
 Date: 2026-01-12 | Equity: 4007407 | Position: {'600668.SH': 67800, '002722.SZ': 49600, '000779.SZ': 93300, '600449.SH': 55000, '600051.SH': 104200, '000877.SZ': 19100, '002815.SZ': 300, '000823.SZ': 1900}
 Date: 2026-01-19 | Equity: 4058821 | Position: {'600668.SH': 71000, '000779.SZ': 91400, '600449.SH': 55000, '600051.SH': 103900, '000877.SZ': 19100, '000823.SZ': 400, '601002.SH': 152600}
 Date: 2026-01-26 | Equity: 4204948 | Position: {'600668.SH': 70000, '000779.SZ': 95300, '600051.SH': 103800, '601002.SH': 150700, '603118.SH': 4300, '002752.SZ': 122200}
@@ -106,6 +107,6 @@ Date: 2026-02-09 | Equity: 4266284 | Position: {'600668.SH': 76600, '000779.SZ':
    回测结果摘要
 总收益率: 329.74%
 最大回撤: -21.66%
->>> [Report] 收益曲线图已保存至: /xxx/backtest_equity_dualtrack.png
->>> 交割单已导出至: /xxx/backtest_orders.csv
->>> 持仓明细已导出至: /xxx/backtest_positions.csv
+[Report] 收益曲线图已保存至: /xxx/backtest_equity_dualtrack.png
+交割单已导出至: /xxx/backtest_orders.csv
+持仓明细已导出至: /xxx/backtest_positions.csv
